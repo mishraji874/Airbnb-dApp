@@ -5,6 +5,7 @@
 
 This project demonstrates how to build a decentralized Airbnb-like platform using Solidity for smart contracts and React for the frontend. The dApp leverages blockchain technology to ensure transparency and trust between hosts and guests.
 
+### Demo: [Airbnb dApp](https://airbnb-dapp-xi.vercel.app/)
  
 ### Built With
 
@@ -35,9 +36,6 @@ This project demonstrates how to build a decentralized Airbnb-like platform usin
       </ul>
     </li>
     <li><a href="#how-to-use">How to Use</a></li>
-    <li><a href="#future-developements">Future developements</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
